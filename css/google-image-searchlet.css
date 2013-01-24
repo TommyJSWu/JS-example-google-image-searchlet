@@ -1,0 +1,53 @@
+.hero-unit
+{
+    text-align: center;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
+    margin-bottom: 50px;
+}
+.hero-unit h1
+{
+    font-size: 72px;
+    color: #707070;
+    text-shadow: 2px 2px 5px white;
+    margin-bottom: 30px;
+}
+.span6
+{
+}
+.gsc-imageResult
+{
+    display: inline-block; !important
+}
+.gs-watermark
+{
+    display: none;
+}
+.gsc-search-box, .gsc-resultsHeader
+{
+    display: none;
+}
+.gs-image-box
+{
+    float: left;
+}
+.gs-text-box
+{
+    margin-left: 130px;
+    margin-bottom: 30px;
+}
+.gs-visibleUrl
+{
+    color: #700;
+}
+.gsc-url-top
+{
+    display: none;
+}
+.gs-size
+{
+    color: #999;
+}
+.gs-title
+{
+    font-size: 16px;
+}
